@@ -14,7 +14,7 @@ pub const ROOT_DOMAIN_ACCOUNT: Pubkey = sns_registrar::constants::ROOT_DOMAIN_AC
 // 5% fee
 pub const FEE_PCT: u64 = 5;
 // Fee account
-pub const FEE_ACC_OWNER: Pubkey = pubkey!("5D2zKog251d6KPCyFyLMt3KroWwXXPWSgTPyhV22K2gR");
+pub const FEE_ACC_OWNER: Pubkey = pubkey!("CPHywZwSwDCqpzT7LHi3ovKnssoXHJpqYLKR3uXYUykE");
 
 #[derive(BorshSerialize, BorshDeserialize, BorshSize, PartialEq, Debug, Eq)]
 #[allow(missing_docs)]
