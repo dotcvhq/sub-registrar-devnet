@@ -24,7 +24,7 @@ spl-associated-token-account = {version = "2.2.0", features = ["no-entrypoint"]}
 spl-name-service = { version = "0.3.0", features = ["no-entrypoint"] }
 bytemuck = "1.12.3"
 unicode-segmentation = "1.10.1"
-sns-registrar = {git = "ssh://git@github.com/Bonfida/sns-registrar.git", features = ["no-entrypoint"] }
+sns-registrar = {git = "ssh://git@github.com/Bonfida/sns-registrar.git", features = ["no-entrypoint", "devnet"] }
 mpl-token-metadata = "4.0.0"
 solana-security-txt = "1.1.1"
 
