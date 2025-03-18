@@ -11,7 +11,7 @@ test-bpf = []
 devnet = ["sns-registrar/devnet"]
 
 [dependencies]
-
+solana-program = "1.18.11"
 num_enum = "0.5.4"
 borsh = "0.10.3"
 thiserror = "1.0.24"
