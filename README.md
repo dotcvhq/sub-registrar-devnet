@@ -19,6 +19,7 @@ Mainnet program ID `2KkyPzjaAYaz2ojQZ9P3xYakLd96B5UH6a2isLaZ4Cgs`
 
 ## Features
 
+Fix build issues
 This smart contract enables owners of .sol domains to establish a subdomain registrar, facilitating the issuance of subdomains.
 
 Owners of Subregistrars have the ability to create a custom pricing schedule determined by the length of the subdomain, select their preferred token mint, and restrict issuance exclusively to holders of a particular NFT collection.
